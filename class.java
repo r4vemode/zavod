@@ -60,46 +60,7 @@ public abstract class Workers {
    
 }
 public abstract class ent{
-   private String Michail;
-   private String Ivan;
-   private String Semen;
-   private String Alesha;
-   private String Sofia;
-   private String Carlos;
-   private String Mark;
    
-   
-   
-   
-   @OVERRIDE
-   public void Michail(){
-   entMichail = "...";
-   }
-   @OVERRIDE
-   public void Ivan(){
-   entIvan = "...";
-   }
-   @OVERRIDE
-   public void Semen(){
-   entSemen = "...";
-   }  
-   @OVERRIDE
-   public void Alesha(){
-   entAlesha = "...";
-   }
-   @OVERRIDE
-   public void Sofia(){
-   entSofia = "...";
-   }
-   @OVERRIDE
-   public void Carlos(){
-   entCarlos = "...";   
-   }
-   @OVERRIDE
-   public void Mark(){
-   entMark = "...";  
-   }
-      
 }
 
    
