@@ -2,6 +2,13 @@ public abstract class Main{
 
 }
 public abstract class Zavod{
+   public int factoryIncome;
+   public int factoryEmmissions;
+   
+      public Zavod(int factoryIncome, int factoryEmmissions){
+         this.factoryIncome = factoryIncome;
+         this.factoryEmmissions = factoryEmmissions;
+      
 }
 public abstract class Workers {
 
